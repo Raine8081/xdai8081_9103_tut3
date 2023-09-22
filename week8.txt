@@ -1,0 +1,2 @@
+git config --global user.name "Raine8081"
+git config --global user.email xdai8081@uni.sydney.edu.au
