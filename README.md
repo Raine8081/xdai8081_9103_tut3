@@ -13,7 +13,7 @@ Therefore, this famour painting could turn into an voice-controlled animation th
 
 __Part2__ 
 
-In order to rotate the wheel of fortune,  the "rotate" directive in p5.js can be used to keep the circle rotating. In addition, in the ‘Wheel of Fortune’, each circle is a concentric circle made up of several circles, based on which you can make the same circle rotate at different speeds to achieve more diversified effects.The snowfall animation could be a great example to achieve this.
+In order to rotate the wheel of fortune,  the "rotate" directive in p5.js can be used to keep the circle rotating. In addition, in the ‘Wheel of Fortune’, each circle is a concentric circle made up of several circles, based on which  the same circle rotate at can be made in different speeds to achieve more diversified effects.The snowfall animation could be a great example to make it comes true.
 
 ![An image of rotating circle](asset/circlefall.png)
 
