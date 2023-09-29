@@ -12,7 +12,7 @@ Therefore, this famour painting could turn into an voice-controlled animation th
 
 __Part2__ 
 In order to rotate the wheel of fortune,  the "rotate" directive in p5.js can be used to keep the circle rotating. In addition, in the ‘Wheel of Fortune’, each circle is a concentric circle made up of several circles, based on which you can make the same circle rotate at different speeds to achieve more diversified effects, which is close to the principle of disc rotation. 
-![An image of rotate](asset/circle.jpg)
+![An image of rotating circle](asset/circle.jpg)
 [Link text](https://p5js.org/examples/transform-rotate.html)
 [Link text](https://editor.p5js.org/tamaki.komatsuzaki/sketches/g7vTv7vgO)
 Similarly, maintaining different rotational efficiencies for each circle on the image with the same rhythm will contribute to the vividness of the picture.
